@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="140" viewBox="0 0 140 140">
+  <!-- Outer Circle -->
+  <circle cx="70" cy="70" r="68" fill="#000000" stroke="#f77c29" stroke-width="2"/>
+
+  <!-- House Roof (larger) -->
+  <polygon points="70,20 24,60 116,60" fill="#f77c29"/>
+
+  <!-- House Body (larger) -->
+  <rect x="36" y="60" width="68" height="44" rx="5" fill="#f77c29"/>
+
+  <!-- Door (centered, larger) -->
+  <rect x="66" y="72" width="8" height="24" fill="#000000" rx="1.5"/>
+
+  <!-- Left Window -->
+  <rect x="48" y="68" width="8" height="8" fill="#000000"/>
+
+  <!-- Right Window -->
+  <rect x="84" y="68" width="8" height="8" fill="#000000"/>
+</svg>
